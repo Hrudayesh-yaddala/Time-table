@@ -1,0 +1,18 @@
+DAY,1,2,3,4,5,6,7,8
+monday,.NET_LAB,.NET_LAB,.NET,ACD,CNS,ACD,CN,DAA(PT)
+tuesday,ES,ES,ACD,BDA,DAA_LAB,DAA_LAB,DAA,CNS(PT)
+wednesday,BDA,DAA,CNS,CN,CN_LAB,CN_LAB,DAA,CN(PT)
+thursday,CN,CNS,BDA,DAA,ACD,IC,ACD,BDA(PT)
+friday,ACD,IC,CNS,CN,DAA,BDA,CLUBS,CLUBS
+saturday,BDA,CN,DAA,CN,COUNS,BDA,CNS,ACD(PT)
+DAA(PT),Mr. Narendra
+CN, Ms V Mounica							
+DAA,Mr. Narendra							
+ACD, Ms Sameerunnisa							
+BDA,Mr. Wasim Akram							
+CNS,Mr P. Siva Prasad							
+CN_LAB,Ms.V Mounica							
+DAA_LAB,Mr Narendra							
+.NET_LAB,Mr M. Kishore Babu							
+IC,Ms.Sameerunnisa							
+ES,Dr. P. Prasanna Anjaneyulu/ Dr. Bhasu Nirmal							
