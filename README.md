@@ -1,1 +1,1 @@
-# Time-table
+Implementing college time table in python
